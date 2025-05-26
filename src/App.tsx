@@ -30,7 +30,7 @@ function App() {
         </p>
 
         <p className="text-lg mb-6">
-          Why? Even if you're staying in SF, I don't think anyone should stay in Dogpatch after the batch. It is good for YC, but afterwards it's boring and sucks ass.
+          Why? Even if you're staying in SF, I don't think anyone should stay in Dogpatch after the batch. It is good for YC, but afterwards it's boring and depressing in my opinion.
           This short term lease is what I would've wanted if I did YC again.
         </p>
 
