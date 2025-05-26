@@ -24,13 +24,13 @@ function App() {
 
       <main className="prose prose-lg">
         <p className="text-lg mb-6">
-          Hey YC founder! I'm offering a short term subleases for fully furnished 2 bed 2 Bath apartment
-          in Avalon Dogpatch for the upcoming batch. This apartment is by far the best for YC (location, amenities,
-          and quality of apt) - ask around about this! And the unit is on the top floor.
+          Yo YC founder! Congrats on getting into the batch! I wouldn't wish staying in Dogpatch on my worst enemy, so I'm offering a short term subleases for fully furnished 2 bed 2 Bath apartment
+          in Avalon Dogpatch for the upcoming batch. This apartment is the best for YC (location, amenities,
+          and quality of apt) - ask around about this!
         </p>
 
         <p className="text-lg mb-6">
-          Anyways, even if you're staying in SF, I don't think anyone should stay in Dogpatch after the batch. It kind of sucks.
+          Why? Even if you're staying in SF, I don't think anyone should stay in Dogpatch after the batch. It is good for YC, but afterwards it's boring and sucks ass.
           This short term lease is what I would've wanted if I did YC again.
         </p>
 
@@ -92,6 +92,7 @@ function App() {
             <li>3-month short-term lease (you get to leave Dogpatch scot-free after your batch)</li>
             <li>All utilities + internet included</li>
             <li>No need to worry about moving in and out furniture, 24/7 Nice Gym Included</li>
+            <li>Just a heads up, this won't be cheap - but it will be nice! I gotta chase my bag.</li>
           </ul>
         </div>
       </main>
