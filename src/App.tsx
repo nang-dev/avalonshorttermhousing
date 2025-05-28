@@ -36,7 +36,7 @@ function App() {
 
         <div className="my-8">
           <img
-            src="/avalonshorttermhousing/2024-03-12.jpg"
+            src="2024-03-12.jpg"
             alt="Avalon Dogpatch Exterior"
             className="rounded-lg w-full"
           />
@@ -66,7 +66,7 @@ function App() {
         </div>
 
         <p className="mb-6">
-          3-month term available - just stay for the batch. All utilities included. Building has a 24/7 gym,
+          3-month term available - just stay for the batch. Building has a 24/7 gym,
           package service, and secure access. Perfect for YC founders who want a hassle-free move. {' '}
           <a
             href="https://drive.google.com/drive/folders/1IvZyG8IuRfdEMYxz-Et1apeLjmwRfw-Q?usp=sharing"
@@ -90,7 +90,7 @@ function App() {
           <h2 className="text-xl font-semibold mb-2">Quick FAQ:</h2>
           <ul className="list-disc pl-5 space-y-2">
             <li>3-month short-term lease (you get to leave Dogpatch scot-free after your batch)</li>
-            <li>All utilities + internet included</li>
+            <li>Fast wifi, obviously</li>
             <li>No need to worry about moving in and out furniture, 24/7 Nice Gym Included</li>
             <li>Just a heads up, this won't be cheap - but it will be nice! I gotta chase my bag.</li>
           </ul>
